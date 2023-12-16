@@ -1,0 +1,6 @@
+pyTelegramBotAPI==4.14.0
+cairosvg
+github_poster
+prettymapp
+google-generativeai
+
